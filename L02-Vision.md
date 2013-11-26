@@ -20,10 +20,24 @@ Har väldigt få båtar eller 1 båt, kanske inte använder sin plats hela säso
 hemsidan 1-2 gånger om året
 #### Kassör
 Kassören för klubben, hyfsat god datorvana, arbetar med att ha koll på medlemsavgifterna i 
-ett kalkylblad
+ett kalkylblad som fylls i automatiskt
 #### Organisatör
 Sekreteraren för klubben, god datorvana, arbetar med support om de blir missförstånd vid plats
 tilldelning och även inbokning av möten och träffar via hemsidan
 #### Webbkonsult
 Externt företag som håller efter hemsidan och är tekniskt support för hemsidan
+
+### Intressenter
+#### Lars Larsson
+Klubbens ordförande, information om klubbens platser/priser. Båt_herre@mail.nu 070 12 34 567
+#### svensktbåtregister
+Hämta information om båtarna via snskesktbåtregister. http://www.svensktbatregister.se/
+
+### Liknande System
+Det inte många automatiserade system för just dessa problemen, majoriteten av båtklubbarna
+använder sig av papper och penna. Men de finns ändån en del automatiserade hemsidor.
+* Lagom mängd information men genomtänkt
+* Kan skriva ut en PDF och skicka in om man inte vill registrera sig på datorn
+* Verkar inte vara automatisk registrering av medlemsavgift
+* Dåling information om vilka platser som är lediga, går inte att välja
 
