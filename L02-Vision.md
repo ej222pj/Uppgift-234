@@ -32,7 +32,7 @@ Externt företag som håller efter hemsidan och är tekniskt support för hemsid
 #### Lars Larsson
 Klubbens ordförande, information om klubbens platser/priser. Båt_herre@mail.nu 070 12 34 567
 #### svensktbåtregister
-Hämta information om båtarna via snskesktbåtregister. http://www.svensktbatregister.se/
+Hämta information om båtarna via svensktbåtregister. http://www.svensktbatregister.se/
 
 ### Liknande System
 Det inte många automatiserade system för just dessa problemen, majoriteten av båtklubbarna
@@ -53,25 +53,8 @@ Kassören ska på ett enkelt sätt kunna se vilka som har betalat och är regist
 #### BK 3
 Organisatören ska inte längre behöva använda sig av det nationella-båtregistret.
 ##### BK 3.1
-Organisatören ska på ett smidigt sätt kunna se vilka platser som tillhör vilken ägare, även 
-vilka platser som är lediga. 
+    Organisatören ska på ett smidigt sätt kunna se vilka platser som tillhör vilken ägare, även 
+    vilka platser som är lediga. 
 ##### BK 3.2
-Kunder som vill byta platser med varrandra skall kunna göra detta under mera kontrollerade
-former för att inte räddningstjänsten ska bli inblandad.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    Kunder som vill byta platser med varrandra skall kunna göra detta under mera kontrollerade
+    former för att inte räddningstjänsten ska bli inblandad.
