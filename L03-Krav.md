@@ -1,8 +1,7 @@
 ## Krav
 ### Aktörer
 ####Primära Aktörer
-1. 
-##### Medlem
+##### 1. Medlem
     Medlemmarna vill kunna registrera sig, uppdatera och kolla information om sig själv, sina 
     båtar och andra medlemmar. De vill kunna byta båtplatser med andra medlemmar och på ett 
     smidigt sätt se information om möten och träffar
