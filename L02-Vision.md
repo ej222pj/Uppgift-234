@@ -1,3 +1,4 @@
+## Vision
 ### Introduktion
 Båtklubben "Den glade piraten"s hemsida erbjuder sina medlemmar att hålla reda på möten, visa
 information om sig själv och registrera sina båtar. Men klubben har växt och det börjar bli 
