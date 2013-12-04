@@ -12,13 +12,11 @@
     Vill kunna se vilka som har betalat medlemsavgifter och även kunna se vilka platser
     som tillhör vilken medlem. Vill kunna byta på medlemmarnas båtplatser. Vill kunna
     byta och lägga in information om möten, träffar och nyheter.
-
 #### Stödjande Aktörer
 ##### 1. svensktbåtregister
     Hämta information om medlemmarnas båtar via svensktbåtregister. 
     http://www.svensktbatregister.se/
-
 #### Offstage Aktörer
 ##### 1. Webbkonsult
     Vill att hemsidan ska skapas så att den följer alla regler kring en godkänd hemsida.
-    vill inte att det ska vara några speciallösningar på hemsidan. 
+    Vill inte att det ska vara några speciallösningar på hemsidan. 
