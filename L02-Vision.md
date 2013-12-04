@@ -22,12 +22,13 @@ Har väldigt få båtar eller 1 båt, kanske inte använder sin plats hela säso
 hemsidan 1-2 gånger om året
 #### Kassör
 Kassören för klubben, hyfsat god datorvana, arbetar med att ha koll på medlemsavgifterna i 
-ett kalkylblad som fylls i automatiskt
+ett kalkylblad
 #### Organisatör
 Sekreteraren för klubben, god datorvana, arbetar med support om de blir missförstånd vid plats
-tilldelning och även inbokning av möten och träffar via hemsidan
+tilldelning och även inbokning av möten, träffar och nyheter via hemsidan
 #### Webbkonsult
 Externt företag som håller efter hemsidan och är tekniskt support för hemsidan
+Det är inte detta företagen som skapar hemsidan
 
 ### Intressenter
 #### Lars Larsson
