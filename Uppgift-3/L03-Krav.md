@@ -23,7 +23,7 @@
 ### Användningsfall
 ##### 1. Medlem
 ###### AF1.1 
-Registrera sig
+<a href="Uppgift-3/Use_case/AF1.1_Registrera_sig">Registrera sig</a>
 ###### AF1.2 
 Uppdatera/se information
 ###### AF1.3 
