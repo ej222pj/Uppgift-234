@@ -16,6 +16,9 @@
 #### 1. svensktbåtregister
     Hämta information om medlemmarnas båtar via svensktbåtregister. 
     http://www.svensktbatregister.se/
+#### 2. Klarna betalning
+    Tar hand om betalning från medlemsavgifts betalningarna.
+    https://klarna.com/sv
 ### Offstage Aktörer
 #### 1. Webbkonsult
     Vill att hemsidan ska skapas så att den följer alla regler kring en godkänd hemsida.
