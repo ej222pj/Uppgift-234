@@ -1,7 +1,7 @@
 # Krav
 ## Aktörer
 ###Primära Aktörer
-#### 1. Medlem
+#### <a href="#Medlem2" name="Medlem1">1. Medlem</a>
     Medlemmarna vill kunna registrera sig, uppdatera och kolla information om sig själv, sina 
     båtar och andra medlemmar. De vill kunna byta båtplatser med andra medlemmar och på ett 
     smidigt sätt se information om möten och träffar.
@@ -21,7 +21,7 @@
     Vill att hemsidan ska skapas så att den följer alla regler kring en godkänd hemsida.
     Vill inte att det ska vara några speciallösningar på hemsidan. 
 ## Användningsfall
-#### 1. Medlem
+#### <a href="#Medlem1" name="Medlem2">1. Medlem</a>
 ##### <a href="Use_case/AF1.1_Registrera_sig.md">AF1.1</a> 
 <a href="Use_case/AF1.1_Registrera_sig.md">Registrera sig</a>
 ##### <a href="Use_case/AF1.2_Se_Information.md">AF1.2</a> 
