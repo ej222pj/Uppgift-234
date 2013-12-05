@@ -5,10 +5,10 @@
     Medlemmarna vill kunna registrera sig, uppdatera och kolla information om sig själv, sina 
     båtar och andra medlemmar. De vill kunna byta båtplatser med andra medlemmar och på ett 
     smidigt sätt se information om möten och träffar.
-#### 2. Kassör
+#### <a href="#Kassör2" name="Kassör1">2. Kassör</a>
     Vill inte behöva hålla på med kvitton längre. vill kunna se vilka som har betalat sina 
     medlemsavgifter och vilka som är på väg att göra det.
-#### 3. Organisatör
+#### <a href="#Organisatör2" name="Organisatör1">3. Organisatör</a>
     Vill  kunna se vilka platser som tillhör vilken medlem. Vill kunna godkänna melemmarnas
     förfrågan om att byta platser. Vill kunna byta och lägga in information om möten,
     träffar och nyheter.
@@ -32,10 +32,10 @@
 <a href="Use_case/AF1.4_Byta_Batplatser.md">Byta båtplatser</a>
 ##### <a href="Use_case/AF1.5_Se_information_om.md">AF1.4</a> 
 <a href="Use_case/AF1.5_Se_information_om.md">Se Information om Möten/träffar</a>
-#### 2. Kassör
+#### <a href="#Kassör1" name="Kassör2">2. Kassör</a>
 ##### <a href="Use_case/AF2.1_Info_om_medlemsavgifter.md">AF2.1</a> 
 <a href="Use_case/AF2.1_Info_om_medlemsavgifter.md">Info om medlemsavgifter</a>
-#### 3. Organisatör
+#### <a href="#Organisatör1" name="Organisatör2">3. Organisatör</a>
 ##### <a href="Use_case/AF3.1_Se_vems_batplats.md">AF3.1</a> 
 <a href="Use_case/AF3.1_Se_vems_batplats.md">Se vems båtplats</a>
 ##### <a href="Use_case/AF3.2_Byta_medl_batplatser.md">AF3.2</a> 
