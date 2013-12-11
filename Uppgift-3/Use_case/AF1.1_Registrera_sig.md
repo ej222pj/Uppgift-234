@@ -27,23 +27,25 @@ Medlemmen kan börja registrera båtar och se information för medlemmar.
 2. Systemet kontrollerar uppgifterna och svarar att användaren blev godkänd.
 Gå till steg 5.
 
-4b1 Systemet ligger nere och kan inte ta in uppgifterna som skickas mot systemet. Systemet skickar ett felmeddeleande.
+###### 4b1 Systemet ligger nere och kan inte ta in uppgifterna som skickas mot systemet. Systemet skickar ett felmeddeleande.
 1. Användaren försöker en gång till och kan då skicka uppgifterna
 Gå till steg 5
 
-4b2 Systemet ligger nere och kan inte ta in uppgifterna som skickas mot systemet. Systemet skickar ett felmeddeleande.
+###### 4b2 Systemet ligger nere och kan inte ta in uppgifterna som skickas mot systemet. Systemet skickar ett felmeddeleande.
 1. Användaren försöker en gång till med samma resultat
     Användningsfallet avslutas
 
-8a Klarna betalning kontrollerar uppgifterna och svarar till systemet att betalningen inte gick igenom.
+###### 8a Klarna betalning kontrollerar uppgifterna och svarar till systemet att betalningen inte gick igenom.
 1. Systemet säger till användaren att betalningen inte gick igenom.
 2. Användaren kontrollerar sina uppgifter, ändrar det felaktiga och skickar formuläret igen.
 Gå till steg 9.
 
-8b1 Klarna betalning ligger nere och kan inte ta in uppgifterna som skickas av användaren. klarna skickar ett felmeddeleande.
-1. Användaren försöker en gång till och kan då skicka uppgifterna
+###### 8b1 Klarna betalning ligger nere och kan inte ta in uppgifterna som skickas av systemet. Klarna skickar ett felmeddeleande till systemet.
+1. Systemet presenterar felmeddelandet till användaren
+2. Användaren försöker en gång till och kan då skicka uppgifterna
 Gå till steg 9
 
-8b2 Klarna betalning ligger nere och kan inte ta in uppgifterna som skickas av användaren. klarna skickar ett felmeddeleande.
-1. Användaren försöker en gång till och kan då skicka uppgifterna
+###### 8b2 Klarna betalning ligger nere och kan inte ta in uppgifterna som skickas av systemet. Klarna skickar ett felmeddeleande till systemet.
+1. Systemet presenterar felmeddelandet till användaren
+2. Användaren försöker en gång till men det går fortfarande inte
     Användningsfallet avslutas 
