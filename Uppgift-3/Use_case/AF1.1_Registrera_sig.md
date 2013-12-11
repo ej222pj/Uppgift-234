@@ -27,7 +27,7 @@ Medlemmen kan börja registrera båtar och se information för medlemmar.
 2. Systemet kontrollerar uppgifterna och svarar att användaren blev godkänd.
 Gå till steg 5.
 
-4b1 Systemet ligger nere och kan inte ta in uppgifterna som skickas mot systemet. Systemet skickar ett felmeddeleande.
+#####4b1 Systemet ligger nere och kan inte ta in uppgifterna som skickas mot systemet. Systemet skickar ett felmeddeleande.
 1. Användaren försöker en gång till och kan då skicka uppgifterna
 Gå till steg 5
 
