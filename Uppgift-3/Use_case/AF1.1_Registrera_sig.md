@@ -22,7 +22,7 @@ Medlemmen kan börja registrera båtar och se information för medlemmar.
 9. Systemet säger till användaren att han är godkänd och registrerar användaren som medlem.
 
 ## Alternativa Scenarios
-4a Systemet kontrollerar uppgifterna och svarar att användaren inte blev godkänd.
+###### 4a Systemet kontrollerar uppgifterna och svarar att användaren inte blev godkänd.
 1. Användaren kontrollerar sina uppgifter och ändrar uppgifterna som blev fel.
 2. Systemet kontrollerar uppgifterna och svarar att användaren blev godkänd.
 Gå till steg 5.
