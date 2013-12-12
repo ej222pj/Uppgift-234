@@ -29,9 +29,9 @@
 <a href="Use_case/AF1.1_Registrera_sig.md">Registrera sig</a>
 ##### <a href="Use_case/AF1.2_Se_Information.md">AF1.2</a> 
 <a href="Use_case/AF1.2_Se_Information.md">Se information</a>
-##### <a href="Use_case/AF1.3_Uppdatera_Information.md">AF1.2</a> 
+##### <a href="Use_case/AF1.3_Uppdatera_Information.md">AF1.3</a> 
 <a href="Use_case/AF1.3_Uppdatera_Information.md">Uppdatera information</a>
-##### <a href="Use_case/AF1.4_Byta_Batplatser.md">AF1.3</a> 
+##### <a href="Use_case/AF1.4_Byta_Batplatser.md">AF1.4</a> 
 <a href="Use_case/AF1.4_Byta_Batplatser.md">Byta båtplatser</a>
 ##### <a href="Use_case/AF1.5_Se_information_om.md">AF1.5</a> 
 <a href="Use_case/AF1.5_Se_information_om.md">Se Information om Möten/träffar</a>
