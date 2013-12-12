@@ -29,14 +29,14 @@
 <a href="Use_case/AF1.1_Registrera_sig.md">Registrera sig</a>
 ##### <a href="Use_case/AF1.2_Se_Information.md">AF1.2</a> 
 <a href="Use_case/AF1.2_Se_Information.md">Se information</a>
-##### <a href="Use_case/AF1.3_Uppdatera_Information.md">AF1.3</a> 
-<a href="Use_case/AF1.3_Uppdatera_Information.md">Uppdatera information</a>
+##### <a href="Use_case/AF1.3_Uppdatera_information.md">AF1.3</a> 
+<a href="Use_case/AF1.3_Uppdatera_information.md">Uppdatera information</a>
 ##### <a href="Use_case/AF1.4_Byta_Batplatser.md">AF1.4</a> 
 <a href="Use_case/AF1.4_Byta_Batplatser.md">Byta båtplatser</a>
 ##### <a href="Use_case/AF1.5_Se_information_om.md">AF1.5</a> 
 <a href="Use_case/AF1.5_Se_information_om.md">Se Information om Möten/träffar</a>
-##### <a href="Use_case/AF1.6_Registrera_batar.md">AF1.6</a> 
-<a href="Use_case/AF1.6_Registrera_batar.md">Registrera båtar</a>
+##### <a href="Use_case/AF1.6_Registrera_Batar.md">AF1.6</a> 
+<a href="Use_case/AF1.6_Registrera_Batar.md">Registrera båtar</a>
 #### <a href="#Kassör1" name="Kassör2">2. Kassör</a>
 ##### <a href="Use_case/AF2.1_Info_om_medlemsavgifter.md">AF2.1</a> 
 <a href="Use_case/AF2.1_Info_om_medlemsavgifter.md">Info om medlemsavgifter</a>
