@@ -1,5 +1,6 @@
 # Kravspecifikation Båtklubben "Den Glade Piraten"
 #### <a href="../Uppgift-2/L02-Vision.md">Vision Den glade piraten</a>
+#### <a href="https://docs.google.com/spreadsheet/ccc?key=0AjoEOygcqU4vdHRlTVl4dG8wVzVEdFZJUWR5cWp0d3c#gid=0>Krav Spec</a>
 ## Aktörer
 ###Primära Aktörer
 #### <a href="#Medlem2" name="Medlem1">1. Medlem</a>
