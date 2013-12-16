@@ -8,11 +8,11 @@ Kontrollera att ett ny användare är registrerad i systemet och även i kassör
 ###### Scenario
 1. Gå till registreringssidan (www.gladapiraten.se/registrering)
 2. Registreringsformulär presenteras
-<a href="#" name="3">3.</a> Användarnamn: medlem1, lösenord: pirat123, adress: testaddressgatan 1 123 45, namn: Kapten Krok, klicka på "Skicka"
+3. <a href="#" name="3"></a>Användarnamn: medlem1, lösenord: pirat123, adress: testaddressgatan 1 123 45, namn: Kapten Krok, klicka på "Skicka"
 4. Lyckad informationsregistrering
 5. Väljer att betala med mastercard
 6. Betalningsformulär presenteras
-<a href="#" name="7">7.</a> Kortnummer 1111 2222 3333 4444, giltighetstid 01/18, säkerhetskod 123, klicka på "skicka"
+7. <a href="#" name="7"></a>Kortnummer 1111 2222 3333 4444, giltighetstid 01/18, säkerhetskod 123, klicka på "skicka"
 8. Lyckad betalning
 9. Användaren lyckades registrera sig och blev registrerad i systemet.
 
