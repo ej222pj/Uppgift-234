@@ -44,10 +44,6 @@ Gå till steg 9.
 1. Systemet presenterar felmeddelandet till användaren
 2. Användaren försöker en gång till och kan då skicka uppgifterna
 
-Gå till steg 9
-###### 8b2 Klarna checkout ligger nere och kan inte ta in uppgifterna som skickas av systemet. Klarna skickar ett felmeddeleande till systemet.
-1. Systemet presenterar felmeddelandet till användaren
-2. Användaren försöker en gång till men det går fortfarande inte
 
 Användningsfallet avslutas 
 ## Definitioner
