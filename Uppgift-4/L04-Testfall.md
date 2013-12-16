@@ -1,5 +1,5 @@
 # Testfall AF1.1 Registrera sig
-## <a href="../Uppgift-3/L03-Krav.md>AF 1.1 Registrera sig</a>
+## <a href="../Uppgift-3/L03-Krav.md">AF 1.1 Registrera sig</a>
 ### Testfall 1.1 Huvudscenario
 I detta testfall är målet att testa registrerings fasen för medlemmar. 
 Det är viktigt att betalningsdelen testas extra noga.
