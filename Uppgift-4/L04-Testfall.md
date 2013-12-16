@@ -8,11 +8,11 @@ Kontrollera att ett ny användare är registrerad i systemet och även i kassör
 ###### Scenario
 1. Gå till registreringssidan (www.gladapiraten.se/registrering)
 2. Registreringsformulär presenteras
-3. Användarnamn: medlem1, lösenord: pirat123, adress: testaddressgatan 1 123 45, namn: Kapten Krok, klicka på "Skicka"
+<a href="#" name="3">3.</a> Användarnamn: medlem1, lösenord: pirat123, adress: testaddressgatan 1 123 45, namn: Kapten Krok, klicka på "Skicka"
 4. Lyckad informationsregistrering
 5. Väljer att betala med mastercard
 6. Betalningsformulär presenteras
-7. Kortnummer 1111 2222 3333 4444, giltighetstid 01/18, säkerhetskod 123, klicka på "skicka"
+<a href="#" name="7">7.</a> Kortnummer 1111 2222 3333 4444, giltighetstid 01/18, säkerhetskod 123, klicka på "skicka"
 8. Lyckad betalning
 9. Användaren lyckades registrera sig och blev registrerad i systemet.
 
@@ -22,7 +22,7 @@ Kontrollera att ett ny användare är registrerad i systemet och även i kassör
 2. Registreringsformulär presenteras
 3. Användarnamn: medlem1, lösenord: pir(här ligger felet), adress: testaddressgatan 1 123 45, namn: Kapten Krok, klicka på "Skicka"
 4. Felaktig inmatning, registreingsformulär presenteras igen med ett felmeddelande vid lösenordet
-5. Gå till steg 3 i huvudscenario
+5. <a href="#3">Gå till steg 3 i huvudscenario</a>
 
 ### Testfall 1.3 Alternativt scenario Systemet ligger nere
 ###### Scenario
@@ -40,7 +40,7 @@ Informationsregistreringen ska ha lyckats och man börjar betala
 2. Betalningsformulär presenteras
 3. Kortnummer 1111 2222 3333 (här ligger felet), giltighetstid 01/18, säkerhetskod 123, klicka på "skicka"
 4. Felaktig inmatning, betalningsformuläret presenteras med ett felmeddelande vid kortnummret
-5. Gå till steg 7 i huvudscenario
+5. <a href="#7">Gå till steg 7 i huvudscenario</a>
 
 ### Testfall 1.5 Alternativt scenario Klarna betalning ligger nere
 ###### Förkrav 
