@@ -5,7 +5,7 @@ I detta testfall är målet att testa registrerings fasen för medlemmar.
 Det är viktigt att betalningsdelen testas extra noga.
 #### Efterkrav
 Kontrollera att ett ny användare är registrerad i systemet och även i kassörens lista.
-#### Scenario
+###### Scenario
 1. Gå till registreringssidan (www.gladapiraten.se/registrering)
 2. Registreringsformulär presenteras
 3. Användarnamn: medlem1, lösenord: pirat123, adress: testaddressgatan 1 123 45, namn: Kapten Krok, klicka på "Skicka"
@@ -16,36 +16,36 @@ Kontrollera att ett ny användare är registrerad i systemet och även i kassör
 8. Lyckad betalning
 9. Användaren lyckades registrera sig och blev registrerad i systemet.
 
-##### Testfall 1.2 Alternativt scenario Misslyckad informationsregistrering 
-#### Scenario
+### Testfall 1.2 Alternativt scenario Misslyckad informationsregistrering 
+###### Scenario
 1. Gå till registreringssidan (www.gladapiraten.se/registrering)
 2. Registreringsformulär presenteras
 3. Användarnamn: medlem1, lösenord: pir(här ligger felet), adress: testaddressgatan 1 123 45, namn: Kapten Krok, klicka på "Skicka"
 4. Felaktig inmatning, registreingsformulär presenteras igen med ett felmeddelande vid lösenordet
 5. Gå till steg 3 i huvudscenario
 
-##### Testfall 1.3 Alternativt scenario Systemet ligger nere
-#### Scenario
+### Testfall 1.3 Alternativt scenario Systemet ligger nere
+###### Scenario
 1. Gå till registreringssidan (www.gladapiraten.se/registrering)
 2. Registreringsformulär presenteras
 3. Användarnamn: medlem1, lösenord: pirat123, adress: testaddressgatan 1 123 45, namn: Kapten Krok, klicka på "Skicka"
 4. Systemet kan inte ta in uppgifterna pga att det ligger nere. Spara inmatningen i localstorage
 5. Testfallet avslutas
 
-##### Testfall 1.4 Alternativt scenario Misslyckad betalning
+### Testfall 1.4 Alternativt scenario Misslyckad betalning
 ###### Förkrav 
 Informationsregistreringen ska ha lyckats och man börjar betala
-#### Scenario
+###### Scenario
 1. Väljer att betala med mastercard
 2. Betalningsformulär presenteras
 3. Kortnummer 1111 2222 3333 (här ligger felet), giltighetstid 01/18, säkerhetskod 123, klicka på "skicka"
 4. Felaktig inmatning, betalningsformuläret presenteras med ett felmeddelande vid kortnummret
 5. Gå till steg 7 i huvudscenario
 
-##### Testfall 1.5 Alternativt scenario Klarna betalning ligger nere
+### Testfall 1.5 Alternativt scenario Klarna betalning ligger nere
 ###### Förkrav 
 Informationsregistreringen ska ha lyckats och man börjar betala
-#### Scenario
+###### Scenario
 1. Väljer att betala med mastercard
 2. Betalningsformulär presenteras
 3. Kortnummer 1111 2222 3333 4444, giltighetstid 01/18, säkerhetskod 123, klicka på "skicka"
