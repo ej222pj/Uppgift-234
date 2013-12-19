@@ -1,4 +1,5 @@
 # Testfall för AF1.1 Registrera sig
+<a href="../Uppgift-3/Use_case/AF1.1_Registrera_sig.md">AF1.1 Registrera sig</a>
 ## <a href="../Uppgift-3/L03-Krav.md">Kravspecifikation Båtklubben "Den Glade Piraten"</a>
 ### Testfall 1.1 Huvudscenario
 I detta testfall är målet att testa registrerings fasen för medlemmar. 
